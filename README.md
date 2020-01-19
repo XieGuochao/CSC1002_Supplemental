@@ -1,11 +1,12 @@
 # CSC1002_Supplemental
 This repository contains supplemental materials for CSC1002 Tutorials (Guochao Xie's).
 
+I will also synchronize the materials to my blog: [https://blog.xieguochao.com](https://blog.xieguochao.com/).
 
 My Schedule
 ===
 
-My personal schedule is here: [https://www.xieguochao.com/schedule/](https://www.xieguochao.com/schedule/).
+My personal schedule is here: [https://xieguochao.com/schedule/](https://xieguochao.com/schedule/).
 
 - 2 Tutorial Sessions:
   - 18:30 - 19:50 Wednesday, TD 303
