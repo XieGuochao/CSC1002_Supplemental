@@ -75,7 +75,7 @@ Reminders (From Kinley)
 My Schedule
 ===
 
-My personal schedule is here: [http://www.xieguochao.com/schedule/](http://www.xieguochao.com/schedule/).
+My personal schedule is here: [https://xieguochao.com/schedule/](https://xieguochao.com/schedule/).
 
 - 2 Tutorial Sessions:
   - 18:30 - 19:50 Wednesday, TD 303
