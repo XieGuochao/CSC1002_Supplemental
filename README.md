@@ -5,7 +5,7 @@ This repository contains supplemental materials for CSC1002 Tutorials (Guochao X
 My Schedule
 ===
 
-My personal schedule is here: [http://www.xieguochao.com/schedule/](http://www.xieguochao.com/schedule/).
+My personal schedule is here: [https://www.xieguochao.com/schedule/](https://www.xieguochao.com/schedule/).
 
 - 2 Tutorial Sessions:
   - 18:30 - 19:50 Wednesday, TD 303
