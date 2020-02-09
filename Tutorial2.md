@@ -40,7 +40,6 @@ date: 2020-02-06
 - [Extra Exercises](#extra-exercises)
   - [Extra Exercise 1.](#extra-exercise-1)
   - [Extra Exercise 2.](#extra-exercise-2)
-- [More Discussions About The Example of Bank Account](#more-discussions-about-the-example-of-bank-account)
 - [Supplemental Contents](#supplemental-contents)
 - [References](#references)
 
@@ -879,8 +878,6 @@ In total 3 numbers.
 ```
 
 You are welcome to share your solutions with each other. I will give a sample solution in the next tutorial.
-
-# More Discussions About The Example of Bank Account
 
 # Supplemental Contents
 
