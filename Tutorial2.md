@@ -886,6 +886,58 @@ Try to learn these contents yourself. You should be able to understand the follo
 - [More String Funtions](https://www.tutorialspoint.com/python3/python_strings.htm)
 - [List Slicing](https://stackoverflow.com/questions/509211/understanding-slice-notation)
 
+
+```python
+# For a given string, split the words by " ". Count the number of words. Lowercase all letters.
+# Then count the number of distinct words.
+
+string = """
+Dear students:
+
+ 
+
+Subject to the current situation regarding the novel coronavirus, the following decisions have been made in line with the requirements of Guangdong and Shenzhen governments:
+
+ 
+
+1. The spring semester 2019-2020 will start no earlier than February 24th. Please wait for further notice of the specific starting date. 
+
+ 
+
+2. Students who are currently away from the campus, including undergraduate and postgraduate students, are strictly prohibited from returning to the campus before the semester begins. Under special circumstances in need, application must be submitted to the college at least one day in advance, and entrance is permitted only after approval by the university.
+
+ 
+
+3. Students currently residing on campus must submit written application to the college office and wait for approval if they need to leave the campus for a short period (within 12 hours) due to compelling reasons. Anyone leaving the campus for more than 12 hours or without proper application and approval will not be allowed to enter the campus until the semester begins.
+
+Under the current unusually difficult circumstances, your understanding and support will be much needed and highly appreciated.
+
+ 
+
+The Chinese University of Hong Kong, Shenzhen
+
+January 29, 2020"""
+
+words = string.split()
+
+num_words = len(words)
+
+lower_words = []
+for word in words:
+    lower_words.append(word.lower())
+
+distinct_words = []
+for word in lower_words:
+    if word not in distinct_words:
+        distinct_words.append(word)
+        
+num_distinct_words = len(distinct_words)
+
+print("""
+Total number of words: {}
+Total number of distinct words: {}""".format(num_words, num_distinct_words))
+```
+
 If you are interested, you can also go through the following contents by searching online:
 
 - **Jupyter Notebook**: Jupyter notebook is an IDE that you can integrate the codes and markdown notes. It is very convenient to write tutorials and share codes. It is frequently used in Data Science applications.
